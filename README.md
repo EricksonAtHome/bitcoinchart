@@ -1,4 +1,4 @@
-# Bitcoin Chart in HTML
+# Realtime Bitcoin Chart in HTML
 Create Bitcoin Chart in HTML/JavaScript with a PHP file
 
 ![alt text](https://github.com/EricksonAtHome/bitcoinchart/blob/main/otbc.png?raw=true)
@@ -22,3 +22,7 @@ Create a directory called API, and put this in file into the map. Add bitcoins.c
 (Example 1:1)
 
 ![alt text](https://github.com/EricksonAtHome/bitcoinchart/blob/main/Example11.png?raw=true)
+
+
+Happy Coding!
+Create with love Mr Erickson
