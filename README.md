@@ -17,3 +17,8 @@ UI            | onlinethuis.nl    |
 
 Create a directory called API, and put this in file into the map. Add bitcoins.css and bitcoin.js and stocks.svg 
 (Example)
+
+![alt text](https://github.com/EricksonAtHome/bitcoinchart/blob/main/example.png?raw=true)
+(Example 1:1)
+
+![alt text](https://github.com/EricksonAtHome/bitcoinchart/blob/main/example11.png?raw=true)
